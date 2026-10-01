@@ -37,3 +37,8 @@ src/lib/preview-host-bridge.ts
 *.log
 .env
 .env.*
+AGENTS.md
+AGENTS.project.md
+.prettierrc
+.node_modules.lock
+
